@@ -1,4 +1,4 @@
-# gradeapplication
+# ipashortlist
 Stata program for first level shortlisting
 
 # Overview
